@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Flama Semicondensed';
+    src: local('Flama Semicondensed Book'), local('Flama-Semicondensed-Book'),
+        url("../fonts/FlamaSemicond-Book.woff2") format('woff2'),
+        url("../fonts/FlamaSemicond-Book.woff") format('woff'),
+        url("../fonts/FlamaSemicond-Book.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Flama Semicondensed';
+    src: local('Flama Semicondensed Medium'), local('Flama-Semicondensed-Medium'),
+        url("../fonts/FlamaSemicond-Medium.woff2") format('woff2'),
+        url("../fonts/FlamaSemicond-Medium.woff") format('woff'),
+        url("../fonts/FlamaSemicond-Medium.ttf") format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
